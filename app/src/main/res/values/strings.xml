@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WatchMen</string>
+    <string name="name">Name:</string>
+    <string name="date_of_birth">Date Of Birth:</string>
+    <string name="set_date_of_birth">Set Date</string>
+    <string name="gender_name">Gender:</string>
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
+    <string name="Submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="reg_name_empty">Please Enter Your Name</string>
+    <string name="reg_dob_empty">Please Enter Your Date Of Birth</string>
+    <string name="reg_pswrd_empty">Password should contain minimum 8 letters</string>
+    <string name="chat_send">Send</string>
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cc">wsd</string>
+</resources>
